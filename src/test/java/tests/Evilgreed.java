@@ -9,4 +9,6 @@ public class Evilgreed extends BaseTest {
     public void openEvilgreed() {
         Common.openUrl("https://evilgreed.net/");
     }
+
+
 }
